@@ -27,7 +27,7 @@
 ### :woman_technologist: About Me :
 I am a Python developer and data scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with background in STEM. 
 
-- 📌 I am interested to apply my diverse background to solve challenges in the tech and science and improve our understanding of data. 
+- 📌 I am interested to apply my diverse background to solve technical and scientific challenges and improve our understanding of data. 
 
 - 🎯 Let's spread love 💜 for programing :computer:, learning :seedling: & science :telescope:
 
