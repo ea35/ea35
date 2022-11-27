@@ -31,7 +31,7 @@ I am a developer and data scientist <img src="https://media.giphy.com/media/WUlp
 
 - 🎯 Let's spread love 💜 for programing :computer:, learning :seedling: & science :telescope:
 
-- :zap: In my free time, I enjoy outdoors, painting and learning new languagues. :sunny: :running: :paintbrush: :book: 
+- :zap: In my free time, I enjoy nature, painting and learning new languagues. :sunny: :running: :paintbrush: :book: 
 
 ---
 
