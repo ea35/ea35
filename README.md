@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Kaggle-white?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Badge"/>
   </a>
   <a href="https://twitter.com/eceem_aydin">
-    <img src="https://img.shields.io/badge/Twitter-red?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
     <a href="https://scholar.google.com/citations?user=7GQJve0AAAAJ&hl=en">
     <img src="https://img.shields.io/badge/GoogleScholar-white?style=for-the-badge&logo=GoogleScholar&logoColor=white" alt="GoogleScholar Badge"/>
