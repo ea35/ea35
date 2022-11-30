@@ -7,13 +7,13 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
     <a href="https://www.kaggle.com/ea35neuro">
-    <img src="https://img.shields.io/badge/Kaggle-white?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Badge"/>
+    <img src="https://img.shields.io/badge/Kaggle-white?style=for-the-badge&logo=Kaggle&logoColor=blue" alt="Kaggle Badge"/>
   </a>
   <a href="https://twitter.com/eceem_aydin">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
     <a href="https://scholar.google.com/citations?user=7GQJve0AAAAJ&hl=en">
-    <img src="https://img.shields.io/badge/GoogleScholar-white?style=for-the-badge&logo=GoogleScholar&logoColor=white" alt="GoogleScholar Badge"/>
+    <img src="https://img.shields.io/badge/GoogleScholar-white?style=for-the-badge&logo=GoogleScholar" alt="GoogleScholar Badge"/>
   </a>
 </div>
 
