@@ -30,7 +30,7 @@ I am a developer and data scientist <img src="https://media.giphy.com/media/WUlp
 - 📌 I am interested to apply my diverse background to solve technical and scientific challenges and improve our understanding of data. 
 
 - 🎯 Let's spread love 💜 for science :telescope:, learning :seedling: & programing :computer:.
-- 
+
 - :zap: In my free time, I enjoy nature, painting and learning new languagues. :sunny: :running: :paintbrush: :book: 
 
 ---
@@ -58,5 +58,7 @@ I am a developer and data scientist <img src="https://media.giphy.com/media/WUlp
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="java" **alt="java" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-original.svg" title="discordjs" **alt="discordjs" width="40" height="40"/>
 <div>
- 
+
+---
+  
 ### :fire: My Github Stats :
