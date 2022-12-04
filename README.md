@@ -53,8 +53,8 @@ I am a developer and data scientist <img src="https://media.giphy.com/media/WUlp
   
 ### :fire: My Github Stats :
 
-![Ecem's GitHub stats](https://github-readme-stats.vercel.app/api?username=ea35&show_icons=true&theme=buefy)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ea35&layout=compact&theme=buefy)
+![Ecem's GitHub stats](https://github-readme-stats-iota-eight-99.vercel.app/api?username=ea35&show_icons=true&theme=buefy)
+![Top Langs](https://github-readme-stats-iota-eight-99.vercel.app/api/top-langs/?username=ea35&layout=compact&theme=buefy)
 
 ---
 
