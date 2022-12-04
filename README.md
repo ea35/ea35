@@ -50,15 +50,21 @@ I am a developer and data scientist <img src="https://media.giphy.com/media/WUlp
 </div> 
 
 ---
+  
+### :fire: My Github Stats :
+
+![Ecem's GitHub stats](https://github-readme-stats.vercel.app/api?username=ea35&show_icons=true&theme=buefy)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ea35&layout=compact&theme=buefy)
+
+---
+
+### 🧠 Currently Learning :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-plain-wordmark.svg" title="vscode" **alt="vscode" width="40" height="40"/>
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-1024.png" title="kaggle" **alt="kaggle" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="django" **alt="django" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" **alt="javascript" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="java" **alt="java" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-original.svg" title="discordjs" **alt="discordjs" width="40" height="40"/>
 <div>
-
----
-  
-### :fire: My Github Stats :
