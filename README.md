@@ -29,8 +29,8 @@ I am a developer and data scientist <img src="https://media.giphy.com/media/WUlp
 
 - 📌 I am interested to apply my diverse background to solve technical and scientific challenges and improve our understanding of data. 
 
-- 🎯 Let's spread love 💜 for programing :computer:, learning :seedling: & science :telescope:
-
+- 🎯 Let's spread love 💜 for science :telescope:, learning :seedling: & programing :computer:.
+- 
 - :zap: In my free time, I enjoy nature, painting and learning new languagues. :sunny: :running: :paintbrush: :book: 
 
 ---
@@ -39,12 +39,24 @@ I am a developer and data scientist <img src="https://media.giphy.com/media/WUlp
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="jupyter" **alt="jupyter" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://miro.medium.com/max/1200/1*6Dhu1H4t028lOGbaZuyRCw.png" title="pycharm" **alt="pycharm" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" **alt="Anaconda" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="matlab" **alt="matlab" width="40" height="40"/>
-</div>
-- in progress
+  <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="raspberry" **alt="raspberry" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="arduino" **alt="arduino" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/minitab/minitab-original.svg" title="minitab" **alt="minitab" width="40" height="40"/>
+</div> 
 
 ---
 
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-plain-wordmark.svg" title="vscode" **alt="vscode" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="django" **alt="django" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" **alt="javascript" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="java" **alt="java" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-original.svg" title="discordjs" **alt="discordjs" width="40" height="40"/>
+<div>
+ 
 ### :fire: My Github Stats :
-- in progress
