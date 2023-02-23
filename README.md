@@ -25,9 +25,9 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a developer and data scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with background in STEM. 
+I am a software engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with science and electrophysiolgy. 
 
-- 📌 I am interested to apply my diverse background to solve technical and scientific challenges and improve our understanding of data. 
+- 📌 I am interested to apply my diverse background to develop tools to solve technical and scientific challenges, thus improve our understanding of biomedical data and making our lives better.
 
 - 🎯 Let's spread love 💜 for science :telescope:, learning :seedling: & programing :computer:.
 
@@ -40,6 +40,7 @@ I am a developer and data scientist <img src="https://media.giphy.com/media/WUlp
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="jupyter" **alt="jupyter" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/labview/labview-original-wordmark.svg" title="labview" **alt="labview" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://miro.medium.com/max/1200/1*6Dhu1H4t028lOGbaZuyRCw.png" title="pycharm" **alt="pycharm" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" **alt="Anaconda" width="40" height="40"/>
@@ -48,15 +49,6 @@ I am a developer and data scientist <img src="https://media.giphy.com/media/WUlp
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="arduino" **alt="arduino" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/minitab/minitab-original.svg" title="minitab" **alt="minitab" width="40" height="40"/>
 </div> 
-
----
-  
-### :fire: My Github Stats :
-
-- in progress
-
-![Ecem's GitHub stats](https://github-readme-stats-iota-eight-99.vercel.app/api?username=ea35&show_icons=true&theme=buefy)
-![Top Langs](https://github-readme-stats-iota-eight-99.vercel.app/api/top-langs/?username=ea35&layout=compact&theme=buefy)
 
 ---
 
