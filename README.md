@@ -27,7 +27,7 @@
 ### :woman_technologist: About Me :
 I am a software engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with science and electrophysiolgy. 
 
-- 📌 I am interested to apply my diverse background to develop tools to solve technical and scientific challenges, thus improve our understanding of biomedical data and making our lives better.
+- 📌 I am interested to apply my diverse background to develop tools to solve technical and scientific challenges. 
 
 - 🎯 Let's spread love 💜 for science :telescope:, learning :seedling: & programing :computer:.
 
