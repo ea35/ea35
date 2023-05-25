@@ -25,7 +25,7 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a software engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with science and electrophysiolgy. 
+I am a software engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with science and electrophysiology background. 
 
 - 📌 I am interested to apply my diverse background to develop tools to solve technical and scientific challenges. 
 
