@@ -6,9 +6,6 @@
   <a href="https://www.linkedin.com/in/ecem-aydin-a3586b238/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-    <a href="https://www.kaggle.com/ea35neuro">
-    <img src="https://img.shields.io/badge/Kaggle-white?style=for-the-badge&logo=Kaggle&logoColor=blue" alt="Kaggle Badge"/>
-  </a>
   <a href="https://twitter.com/eceem_aydin">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
@@ -29,9 +26,9 @@ I am a software engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - 📌 I am interested to apply my diverse background to develop tools to solve technical and scientific challenges. 
 
-- 🎯 Let's spread love 💜 for science :telescope:, learning :seedling: & programing :computer:.
+- 🎯 Let's spread love 💜 for science :telescope: and technology :computer:. 🌱
 
-- :zap: In my free time, I enjoy nature, painting and learning new languagues. :sunny: :running: :paintbrush: :book: 
+- :zap: In my free time, I enjoy nature, arts & crafts and of course learning new languagues. :sunny: :running: :paintbrush: :book: 
 
 ---
 
